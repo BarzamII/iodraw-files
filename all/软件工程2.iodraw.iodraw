@@ -55,6 +55,57 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="alYmibMV3HG6CLVAj1X3-12" value="消费者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="464" y="190" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="alYmibMV3HG6CLVAj1X3-13" value="咨询商品" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="289" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="alYmibMV3HG6CLVAj1X3-14" value="查看商品详情与价格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="194" y="289" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="alYmibMV3HG6CLVAj1X3-15" value="下单并支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="448" y="289" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="alYmibMV3HG6CLVAj1X3-16" value="查看物流状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="638" y="289" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="alYmibMV3HG6CLVAj1X3-17" value="确认收货" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="844" y="289" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="alYmibMV3HG6CLVAj1X3-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="alYmibMV3HG6CLVAj1X3-12" target="alYmibMV3HG6CLVAj1X3-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="82" y="264" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="alYmibMV3HG6CLVAj1X3-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="alYmibMV3HG6CLVAj1X3-12" target="alYmibMV3HG6CLVAj1X3-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="296" y="264" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="alYmibMV3HG6CLVAj1X3-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="alYmibMV3HG6CLVAj1X3-12" target="alYmibMV3HG6CLVAj1X3-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="alYmibMV3HG6CLVAj1X3-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="alYmibMV3HG6CLVAj1X3-12" target="alYmibMV3HG6CLVAj1X3-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="716" y="264" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="alYmibMV3HG6CLVAj1X3-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="alYmibMV3HG6CLVAj1X3-12" target="alYmibMV3HG6CLVAj1X3-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="906" y="264" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
