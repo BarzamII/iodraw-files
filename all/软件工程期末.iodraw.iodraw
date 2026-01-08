@@ -74,9 +74,6 @@
         <mxCell id="OK7BPhQxRyydMaegwAzT-74" value="分配副主编" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-57">
           <mxGeometry x="120" y="290" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OK7BPhQxRyydMaegwAzT-88" value="最终决策" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-57">
-          <mxGeometry x="40" y="525" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OK7BPhQxRyydMaegwAzT-62" target="OK7BPhQxRyydMaegwAzT-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -99,8 +96,10 @@
         <mxCell id="OK7BPhQxRyydMaegwAzT-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OK7BPhQxRyydMaegwAzT-84" target="OK7BPhQxRyydMaegwAzT-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OK7BPhQxRyydMaegwAzT-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OK7BPhQxRyydMaegwAzT-86" target="OK7BPhQxRyydMaegwAzT-88">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OK7BPhQxRyydMaegwAzT-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OK7BPhQxRyydMaegwAzT-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="915.0000000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
