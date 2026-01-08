@@ -331,9 +331,12 @@
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-181" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="330" y="1190" as="sourcePoint" />
+            <mxPoint x="340" y="1190" as="sourcePoint" />
             <mxPoint x="610" y="1190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-182" value="送到买家" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1320" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
