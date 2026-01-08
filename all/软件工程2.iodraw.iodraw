@@ -290,7 +290,10 @@
           <mxGeometry x="10" y="210" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-134" value="消费者" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1010" width="110" height="280" as="geometry" />
+          <mxGeometry x="560" y="1010" width="130" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-175" value="送到买家" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="QTtAND6rSUgSDQWg1g5m-134">
+          <mxGeometry x="20" y="210" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-135" value="国内快递" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="1010" width="110" height="280" as="geometry" />
@@ -314,6 +317,9 @@
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="470" y="1140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTtAND6rSUgSDQWg1g5m-173" target="QTtAND6rSUgSDQWg1g5m-175">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
