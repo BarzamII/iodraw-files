@@ -33,7 +33,7 @@
         <mxCell id="_QjzADefCc_TMCCw9rGo-113" value="转发申诉" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;fontColor=#000000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
           <mxGeometry x="40" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-119" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
+        <mxCell id="_QjzADefCc_TMCCw9rGo-119" value="终审决定" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
           <mxGeometry x="60" y="740" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-120" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="_QjzADefCc_TMCCw9rGo-119" parent="_QjzADefCc_TMCCw9rGo-72">
