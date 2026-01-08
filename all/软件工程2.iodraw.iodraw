@@ -252,7 +252,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-98" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="160" y="960" width="30" height="30" as="geometry" />
+          <mxGeometry x="145" y="900" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
