@@ -33,7 +33,7 @@
         <mxCell id="OK7BPhQxRyydMaegwAzT-64" value="接收稿件" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-57">
           <mxGeometry x="40" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OK7BPhQxRyydMaegwAzT-66" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-57">
+        <mxCell id="OK7BPhQxRyydMaegwAzT-66" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-57">
           <mxGeometry x="60" y="210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-67" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="OK7BPhQxRyydMaegwAzT-66" parent="OK7BPhQxRyydMaegwAzT-57">
