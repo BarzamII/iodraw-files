@@ -196,6 +196,9 @@
             <mxPoint x="415" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTtAND6rSUgSDQWg1g5m-81" target="QTtAND6rSUgSDQWg1g5m-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-81" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="380" y="570" width="80" height="40" as="geometry" />
         </mxCell>
