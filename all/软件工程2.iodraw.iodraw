@@ -4,23 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="alYmibMV3HG6CLVAj1X3-1" value="代购者" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="440" y="20" width="109" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="alYmibMV3HG6CLVAj1X3-2" value="查看商品推荐" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="20" y="119" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="alYmibMV3HG6CLVAj1X3-13" value="咨询商品" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="20" y="289" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="alYmibMV3HG6CLVAj1X3-60" value="不通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="626" y="805" />
-            </Array>
-            <mxPoint x="682.7368421052633" y="742.2368421052631" as="sourcePoint" />
-            <mxPoint x="626" y="1137" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="550" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
