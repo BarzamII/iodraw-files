@@ -37,11 +37,6 @@
         <mxCell id="OK7BPhQxRyydMaegwAzT-60" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-59">
           <mxGeometry x="85" y="40" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OK7BPhQxRyydMaegwAzT-61" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="OK7BPhQxRyydMaegwAzT-62" parent="OK7BPhQxRyydMaegwAzT-59">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-71" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-59">
           <mxGeometry x="85" y="290" width="30" height="30" as="geometry" />
         </mxCell>
@@ -57,6 +52,11 @@
         <mxCell id="OK7BPhQxRyydMaegwAzT-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="OK7BPhQxRyydMaegwAzT-59" source="OK7BPhQxRyydMaegwAzT-111">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="665" />
+              <mxPoint x="20" y="433" />
+              <mxPoint x="50" y="433" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-111" value="再次上传" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-59">
