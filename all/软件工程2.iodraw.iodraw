@@ -311,7 +311,7 @@
           <mxGeometry x="10" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-173" value="送到买家" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="QTtAND6rSUgSDQWg1g5m-135">
-          <mxGeometry x="10" y="210" width="90" height="30" as="geometry" />
+          <mxGeometry x="10" y="300" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTtAND6rSUgSDQWg1g5m-152" target="QTtAND6rSUgSDQWg1g5m-155">
           <mxGeometry relative="1" as="geometry" />
@@ -332,7 +332,7 @@
         <mxCell id="QTtAND6rSUgSDQWg1g5m-181" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="340" y="1190" as="sourcePoint" />
-            <mxPoint x="490" y="1270" as="targetPoint" />
+            <mxPoint x="610" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
