@@ -37,13 +37,10 @@
         <mxCell id="OK7BPhQxRyydMaegwAzT-60" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-59">
           <mxGeometry x="85" y="40" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OK7BPhQxRyydMaegwAzT-61" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="OK7BPhQxRyydMaegwAzT-60" parent="OK7BPhQxRyydMaegwAzT-59">
+        <mxCell id="OK7BPhQxRyydMaegwAzT-61" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="OK7BPhQxRyydMaegwAzT-62" parent="OK7BPhQxRyydMaegwAzT-59">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="130" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="OK7BPhQxRyydMaegwAzT-62" value="提交稿件" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-59">
-          <mxGeometry x="40" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-71" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-59">
           <mxGeometry x="85" y="290" width="30" height="30" as="geometry" />
@@ -64,6 +61,15 @@
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-111" value="再次上传" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-59">
           <mxGeometry x="40" y="645.0000000000002" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OK7BPhQxRyydMaegwAzT-114" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="OK7BPhQxRyydMaegwAzT-59" source="OK7BPhQxRyydMaegwAzT-60" target="OK7BPhQxRyydMaegwAzT-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-250" y="500" as="targetPoint" />
+            <mxPoint x="-250" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OK7BPhQxRyydMaegwAzT-62" value="提交稿件" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-59">
+          <mxGeometry x="40" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-57" value="主编" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="370" width="200" height="790" as="geometry" />
