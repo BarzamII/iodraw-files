@@ -57,7 +57,7 @@
         <mxCell id="OK7BPhQxRyydMaegwAzT-110" value="修改稿件" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-59">
           <mxGeometry x="40" y="525.0000000000002" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OK7BPhQxRyydMaegwAzT-111" value="修改稿件" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-59">
+        <mxCell id="OK7BPhQxRyydMaegwAzT-111" value="再次上传" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-59">
           <mxGeometry x="40" y="645.0000000000002" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-57" value="主编" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
