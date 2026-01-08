@@ -16,6 +16,9 @@
         <mxCell id="OK7BPhQxRyydMaegwAzT-80" value="发给审稿人" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-56">
           <mxGeometry x="40" y="405" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OK7BPhQxRyydMaegwAzT-86" value="编辑建议" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-56">
+          <mxGeometry x="40" y="525" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-58" value="审稿人" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="370" width="200" height="790" as="geometry" />
         </mxCell>
@@ -88,6 +91,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OK7BPhQxRyydMaegwAzT-80" target="OK7BPhQxRyydMaegwAzT-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OK7BPhQxRyydMaegwAzT-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OK7BPhQxRyydMaegwAzT-84" target="OK7BPhQxRyydMaegwAzT-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
