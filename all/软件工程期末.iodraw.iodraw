@@ -74,10 +74,13 @@
         <mxCell id="OK7BPhQxRyydMaegwAzT-74" value="分配副主编" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-57">
           <mxGeometry x="120" y="290" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OK7BPhQxRyydMaegwAzT-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OK7BPhQxRyydMaegwAzT-57" source="OK7BPhQxRyydMaegwAzT-94" target="OK7BPhQxRyydMaegwAzT-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-94" value="最终决策" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-57">
           <mxGeometry x="54.79" y="520" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OK7BPhQxRyydMaegwAzT-95" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="OK7BPhQxRyydMaegwAzT-94" parent="OK7BPhQxRyydMaegwAzT-57">
+        <mxCell id="OK7BPhQxRyydMaegwAzT-95" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="OK7BPhQxRyydMaegwAzT-94" parent="OK7BPhQxRyydMaegwAzT-57">
           <mxGeometry x="0.1675" y="50" relative="1" as="geometry">
             <mxPoint x="100" y="690" as="targetPoint" />
             <Array as="points">
@@ -90,6 +93,9 @@
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-80" y="545" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OK7BPhQxRyydMaegwAzT-97" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#ffffc0;strokeColor=#ff0000;fontColor=#000000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-57">
+          <mxGeometry x="59.78999999999999" y="385" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OK7BPhQxRyydMaegwAzT-62" target="OK7BPhQxRyydMaegwAzT-64">
           <mxGeometry relative="1" as="geometry" />
