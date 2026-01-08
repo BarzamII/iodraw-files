@@ -16,7 +16,7 @@
         <mxCell id="QTtAND6rSUgSDQWg1g5m-6" value="商品价格管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="450" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-8" value="包裹管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="610" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTtAND6rSUgSDQWg1g5m-6" target="QTtAND6rSUgSDQWg1g5m-13">
@@ -32,22 +32,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-12" value="当日汇率" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="430" width="80" height="50" as="geometry" />
+          <mxGeometry x="320" y="420" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-13" value="目标超市价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="370" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="690" width="80" height="50" as="geometry" />
+          <mxGeometry x="320" y="360" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-16" value="订单处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="530" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QTtAND6rSUgSDQWg1g5m-15">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="630" as="sourcePoint" />
-            <mxPoint x="140" y="590" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QTtAND6rSUgSDQWg1g5m-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -65,7 +56,7 @@
           <mxGeometry x="320" y="480" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-26" value="收款" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="570" width="80" height="50" as="geometry" />
+          <mxGeometry x="320" y="535" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QTtAND6rSUgSDQWg1g5m-16" target="QTtAND6rSUgSDQWg1g5m-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
