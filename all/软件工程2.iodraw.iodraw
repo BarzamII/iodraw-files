@@ -175,7 +175,7 @@
         <mxCell id="QTtAND6rSUgSDQWg1g5m-74" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-75" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-74" parent="1">
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-75" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-74" parent="1" target="QTtAND6rSUgSDQWg1g5m-76">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="415" y="470" as="targetPoint" />
           </mxGeometry>
