@@ -27,6 +27,9 @@
         <mxCell id="_QjzADefCc_TMCCw9rGo-100" value="初审决定" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
           <mxGeometry x="60" y="370" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_QjzADefCc_TMCCw9rGo-108" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
+          <mxGeometry x="85" y="550" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-73" value="审稿人" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="710" width="200" height="750" as="geometry" />
         </mxCell>
@@ -91,9 +94,6 @@
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="430" y="1180" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-108" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1150" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
