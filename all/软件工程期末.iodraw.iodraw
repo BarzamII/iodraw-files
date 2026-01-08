@@ -24,19 +24,13 @@
             <mxPoint x="100" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_QjzADefCc_TMCCw9rGo-72" source="_QjzADefCc_TMCCw9rGo-100" target="_QjzADefCc_TMCCw9rGo-105">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-100" value="初审决定" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
           <mxGeometry x="60" y="370" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-102" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="_QjzADefCc_TMCCw9rGo-100" parent="_QjzADefCc_TMCCw9rGo-72">
+        <mxCell id="_QjzADefCc_TMCCw9rGo-102" value="接受" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="_QjzADefCc_TMCCw9rGo-100" parent="_QjzADefCc_TMCCw9rGo-72">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="100" y="470" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-105" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;fontColor=#000000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
-          <mxGeometry x="-120" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-73" value="审稿人" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="710" width="200" height="750" as="geometry" />
@@ -67,6 +61,9 @@
         <mxCell id="_QjzADefCc_TMCCw9rGo-87" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-74">
           <mxGeometry x="85" y="275" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_QjzADefCc_TMCCw9rGo-105" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;fontColor=#000000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-74">
+          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QjzADefCc_TMCCw9rGo-77" target="_QjzADefCc_TMCCw9rGo-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -88,6 +85,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="1100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_QjzADefCc_TMCCw9rGo-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QjzADefCc_TMCCw9rGo-100" target="_QjzADefCc_TMCCw9rGo-105">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
