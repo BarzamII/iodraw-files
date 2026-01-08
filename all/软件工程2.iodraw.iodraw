@@ -255,7 +255,7 @@
           <mxGeometry x="115" y="870" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-129" value="代购者" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="1010" width="115" height="200" as="geometry" />
+          <mxGeometry y="1010" width="110" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-136" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="QTtAND6rSUgSDQWg1g5m-129">
           <mxGeometry x="40" y="30" width="30" height="30" as="geometry" />
@@ -265,14 +265,8 @@
             <mxPoint x="55" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-139" value="快递寄出" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="QTtAND6rSUgSDQWg1g5m-129">
-          <mxGeometry x="7.5" y="90" width="95" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-130" value="国外快递" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1010" width="110" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-141" value="快递寄出" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="QTtAND6rSUgSDQWg1g5m-130">
-          <mxGeometry x="10" y="90" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-131" value="海关" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="220" y="1010" width="110" height="200" as="geometry" />
@@ -283,8 +277,13 @@
         <mxCell id="QTtAND6rSUgSDQWg1g5m-135" value="国内快递" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1010" width="110" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTtAND6rSUgSDQWg1g5m-139" target="QTtAND6rSUgSDQWg1g5m-141">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-139" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="350" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-140" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-139" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1020" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
