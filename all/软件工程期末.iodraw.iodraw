@@ -82,13 +82,13 @@
         <mxCell id="_QjzADefCc_TMCCw9rGo-60" value="终审决定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="930" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-61" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_QjzADefCc_TMCCw9rGo-50">
+        <mxCell id="_QjzADefCc_TMCCw9rGo-61" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_QjzADefCc_TMCCw9rGo-50" target="_QjzADefCc_TMCCw9rGo-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="1060" as="sourcePoint" />
             <mxPoint x="250" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-62" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_QjzADefCc_TMCCw9rGo-62" value="接收评价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1080" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
