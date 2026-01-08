@@ -276,7 +276,10 @@
           <mxGeometry x="10" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-131" value="海关" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1010" width="110" height="280" as="geometry" />
+          <mxGeometry x="280" y="1010" width="125" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-158" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;fontColor=#000000;rounded=1;arcSize=40;" vertex="1" parent="QTtAND6rSUgSDQWg1g5m-131">
+          <mxGeometry x="45" y="85" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-134" value="消费者" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1010" width="110" height="280" as="geometry" />
@@ -285,6 +288,9 @@
           <mxGeometry x="420" y="1010" width="110" height="280" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTtAND6rSUgSDQWg1g5m-152" target="QTtAND6rSUgSDQWg1g5m-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTtAND6rSUgSDQWg1g5m-155" target="QTtAND6rSUgSDQWg1g5m-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
