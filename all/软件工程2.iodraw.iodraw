@@ -276,7 +276,7 @@
           <mxGeometry x="10" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-131" value="海关" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1010" width="110" height="280" as="geometry" />
+          <mxGeometry x="280" y="1010" width="110" height="390" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-160" value="是否合规" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="QTtAND6rSUgSDQWg1g5m-131">
           <mxGeometry x="15" y="105" width="80" height="40" as="geometry" />
