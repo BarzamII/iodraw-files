@@ -20,7 +20,7 @@
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-23" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="3SgvS5SkxeYjLUp2gQi0-22" parent="3SgvS5SkxeYjLUp2gQi0-1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="240" y="180" as="targetPoint" />
+            <mxPoint x="160" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-24" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="3SgvS5SkxeYjLUp2gQi0-22" parent="3SgvS5SkxeYjLUp2gQi0-1">
