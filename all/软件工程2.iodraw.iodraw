@@ -13,41 +13,13 @@
         <mxCell id="alYmibMV3HG6CLVAj1X3-13" value="咨询商品" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="20" y="289" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="alYmibMV3HG6CLVAj1X3-51" value="没收或追责" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="556" y="1137" width="140" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="alYmibMV3HG6CLVAj1X3-54" value="签收" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="746" y="1137" width="93" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="alYmibMV3HG6CLVAj1X3-55" value="流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="647" y="1236" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="alYmibMV3HG6CLVAj1X3-60" value="不通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" parent="1" target="alYmibMV3HG6CLVAj1X3-51" edge="1">
+        <mxCell id="alYmibMV3HG6CLVAj1X3-60" value="不通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="626" y="805" />
             </Array>
             <mxPoint x="682.7368421052633" y="742.2368421052631" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="alYmibMV3HG6CLVAj1X3-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" target="alYmibMV3HG6CLVAj1X3-54" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="793" y="1088" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="alYmibMV3HG6CLVAj1X3-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.17;entryY=0;rounded=0;" parent="1" source="alYmibMV3HG6CLVAj1X3-51" target="alYmibMV3HG6CLVAj1X3-55" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="626" y="1211" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="alYmibMV3HG6CLVAj1X3-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.83;entryY=0;rounded=0;" parent="1" source="alYmibMV3HG6CLVAj1X3-54" target="alYmibMV3HG6CLVAj1X3-55" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="793" y="1211" />
-            </Array>
+            <mxPoint x="626" y="1137" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
