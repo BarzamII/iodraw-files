@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_QjzADefCc_TMCCw9rGo-72" value="组委会" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="710" width="200" height="910" as="geometry" />
+          <mxGeometry x="330" y="710" width="200" height="920" as="geometry" />
         </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_QjzADefCc_TMCCw9rGo-72" source="_QjzADefCc_TMCCw9rGo-79" target="_QjzADefCc_TMCCw9rGo-81">
           <mxGeometry relative="1" as="geometry" />
@@ -36,8 +36,11 @@
         <mxCell id="_QjzADefCc_TMCCw9rGo-119" value="终审决定" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
           <mxGeometry x="60" y="740" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_QjzADefCc_TMCCw9rGo-125" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
+          <mxGeometry x="85" y="880" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-73" value="审稿人" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="710" width="200" height="910" as="geometry" />
+          <mxGeometry x="540" y="710" width="200" height="920" as="geometry" />
         </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_QjzADefCc_TMCCw9rGo-73" source="_QjzADefCc_TMCCw9rGo-89" target="_QjzADefCc_TMCCw9rGo-90">
           <mxGeometry relative="1" as="geometry" />
@@ -141,9 +144,6 @@
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="430" y="1550" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-125" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="416" y="1650" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
