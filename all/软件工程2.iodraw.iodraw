@@ -281,11 +281,6 @@
         <mxCell id="QTtAND6rSUgSDQWg1g5m-160" value="是否合规" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="QTtAND6rSUgSDQWg1g5m-131">
           <mxGeometry x="15" y="105" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-161" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-160" parent="QTtAND6rSUgSDQWg1g5m-131">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="190" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-162" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-160" parent="QTtAND6rSUgSDQWg1g5m-131" target="QTtAND6rSUgSDQWg1g5m-165">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="50" y="210" as="targetPoint" />
@@ -300,14 +295,19 @@
         <mxCell id="QTtAND6rSUgSDQWg1g5m-135" value="国内快递" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="1010" width="110" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-172" value="送到海关" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="QTtAND6rSUgSDQWg1g5m-135">
+          <mxGeometry x="10" y="110" width="90" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTtAND6rSUgSDQWg1g5m-152" target="QTtAND6rSUgSDQWg1g5m-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTtAND6rSUgSDQWg1g5m-155" target="QTtAND6rSUgSDQWg1g5m-160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-172" value="送到海关" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1140" width="90" height="30" as="geometry" />
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-161" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-160" parent="1" target="QTtAND6rSUgSDQWg1g5m-172">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="470" y="1140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
