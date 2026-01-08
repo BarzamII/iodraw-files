@@ -235,7 +235,8 @@
             <Array as="points">
               <mxPoint x="90" y="880" />
               <mxPoint x="150" y="880" />
-              <mxPoint x="150" y="975" />
+              <mxPoint x="150" y="960" />
+              <mxPoint x="160" y="960" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -249,9 +250,6 @@
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-98" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="160" y="960" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTtAND6rSUgSDQWg1g5m-98" target="QTtAND6rSUgSDQWg1g5m-98">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
