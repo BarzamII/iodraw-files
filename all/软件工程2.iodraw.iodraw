@@ -286,6 +286,9 @@
             <mxPoint x="50" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QTtAND6rSUgSDQWg1g5m-131" source="QTtAND6rSUgSDQWg1g5m-165" target="QTtAND6rSUgSDQWg1g5m-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-165" value="&lt;div&gt;没收&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="QTtAND6rSUgSDQWg1g5m-131">
           <mxGeometry x="10" y="210" width="90" height="30" as="geometry" />
         </mxCell>
@@ -324,6 +327,12 @@
         <mxCell id="QTtAND6rSUgSDQWg1g5m-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTtAND6rSUgSDQWg1g5m-173" target="QTtAND6rSUgSDQWg1g5m-177">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="1235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-181" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="1270" as="sourcePoint" />
+            <mxPoint x="490" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
