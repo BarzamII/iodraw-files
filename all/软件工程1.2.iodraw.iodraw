@@ -21,16 +21,6 @@
             <mxPoint x="160" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3SgvS5SkxeYjLUp2gQi0-12" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="3SgvS5SkxeYjLUp2gQi0-10" parent="3SgvS5SkxeYjLUp2gQi0-1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="54" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="50" y="240" />
-              <mxPoint x="50" y="295" />
-              <mxPoint x="55" y="295" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-2" value="领事" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="210" width="200" height="390" as="geometry" />
         </mxCell>
@@ -50,6 +40,19 @@
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3SgvS5SkxeYjLUp2gQi0-7" target="3SgvS5SkxeYjLUp2gQi0-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3SgvS5SkxeYjLUp2gQi0-14" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3SgvS5SkxeYjLUp2gQi0-15" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="3SgvS5SkxeYjLUp2gQi0-14" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="500" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3SgvS5SkxeYjLUp2gQi0-16" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="3SgvS5SkxeYjLUp2gQi0-14" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="360" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
