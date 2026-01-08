@@ -301,9 +301,13 @@
         <mxCell id="QTtAND6rSUgSDQWg1g5m-177" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="QTtAND6rSUgSDQWg1g5m-134">
           <mxGeometry x="40" y="300" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QTtAND6rSUgSDQWg1g5m-134" source="QTtAND6rSUgSDQWg1g5m-185">
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QTtAND6rSUgSDQWg1g5m-134" source="QTtAND6rSUgSDQWg1g5m-185" target="QTtAND6rSUgSDQWg1g5m-187">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="55" y="205" />
+              <mxPoint x="56" y="205" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-185" value="送到买家" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="QTtAND6rSUgSDQWg1g5m-134">
