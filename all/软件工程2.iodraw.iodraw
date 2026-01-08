@@ -257,6 +257,14 @@
         <mxCell id="QTtAND6rSUgSDQWg1g5m-129" value="代购者" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="1010" width="110" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-150" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="QTtAND6rSUgSDQWg1g5m-129">
+          <mxGeometry x="40" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-151" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-150" parent="QTtAND6rSUgSDQWg1g5m-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-130" value="国外快递" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="1010" width="110" height="280" as="geometry" />
         </mxCell>
@@ -269,12 +277,12 @@
         <mxCell id="QTtAND6rSUgSDQWg1g5m-135" value="国内快递" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="1010" width="110" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-150" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1230" width="30" height="30" as="geometry" />
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-152" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-151" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-150" parent="1">
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-153" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-152" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="1320" as="targetPoint" />
+            <mxPoint x="340" y="1530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
