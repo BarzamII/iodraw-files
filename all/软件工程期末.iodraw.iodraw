@@ -33,6 +33,9 @@
         <mxCell id="_QjzADefCc_TMCCw9rGo-113" value="转发申诉" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;fontColor=#000000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
           <mxGeometry x="40" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_QjzADefCc_TMCCw9rGo-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_QjzADefCc_TMCCw9rGo-72" source="_QjzADefCc_TMCCw9rGo-119" target="_QjzADefCc_TMCCw9rGo-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-119" value="终审决定" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
           <mxGeometry x="60" y="740" width="80" height="40" as="geometry" />
         </mxCell>
