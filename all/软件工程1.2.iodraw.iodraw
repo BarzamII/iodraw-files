@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-10" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="3SgvS5SkxeYjLUp2gQi0-1">
-          <mxGeometry x="14" y="230" width="80" height="40" as="geometry" />
+          <mxGeometry x="60" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-11" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="3SgvS5SkxeYjLUp2gQi0-10" parent="3SgvS5SkxeYjLUp2gQi0-1">
           <mxGeometry x="-1" relative="1" as="geometry">
