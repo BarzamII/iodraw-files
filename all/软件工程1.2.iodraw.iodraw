@@ -18,7 +18,7 @@
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-22" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="3SgvS5SkxeYjLUp2gQi0-1">
           <mxGeometry x="60" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3SgvS5SkxeYjLUp2gQi0-23" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="3SgvS5SkxeYjLUp2gQi0-22" parent="3SgvS5SkxeYjLUp2gQi0-1" target="3SgvS5SkxeYjLUp2gQi0-31">
+        <mxCell id="3SgvS5SkxeYjLUp2gQi0-23" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="3SgvS5SkxeYjLUp2gQi0-22" parent="3SgvS5SkxeYjLUp2gQi0-1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="160" y="230" as="targetPoint" />
           </mxGeometry>
