@@ -34,7 +34,7 @@
           <mxGeometry x="40" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-119" value="终审决定" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
-          <mxGeometry x="60" y="740" width="80" height="40" as="geometry" />
+          <mxGeometry x="60" y="750" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-125" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
           <mxGeometry x="85" y="880" width="30" height="30" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="30" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-117" value="修改评价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;fontColor=#000000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-73">
-          <mxGeometry x="30" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-74" value="作者" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="120" y="710" width="200" height="920" as="geometry" />
