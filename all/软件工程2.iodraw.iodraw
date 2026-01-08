@@ -7,6 +7,9 @@
         <mxCell id="QTtAND6rSUgSDQWg1g5m-2" value="代购者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="550" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="150" y="581" width="40" height="8" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
