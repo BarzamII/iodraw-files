@@ -229,14 +229,13 @@
         <mxCell id="QTtAND6rSUgSDQWg1g5m-92" value="送达卖家" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="30" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-93" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-92" parent="1" target="QTtAND6rSUgSDQWg1g5m-98">
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-93" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-92" parent="1" target="QTtAND6rSUgSDQWg1g5m-98">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="860" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="90" y="880" />
-              <mxPoint x="150" y="880" />
+              <mxPoint x="90" y="830" />
+              <mxPoint x="150" y="830" />
               <mxPoint x="150" y="960" />
-              <mxPoint x="160" y="960" />
             </Array>
           </mxGeometry>
         </mxCell>
