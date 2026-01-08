@@ -24,11 +24,6 @@
             <mxPoint x="399" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QjzADefCc_TMCCw9rGo-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="399" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-8" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="359" y="544.5" width="80" height="40" as="geometry" />
         </mxCell>
