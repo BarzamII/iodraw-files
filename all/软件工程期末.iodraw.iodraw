@@ -101,52 +101,52 @@
           <mxGeometry x="760" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-26" value="作者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="820" width="30" height="60" as="geometry" />
+          <mxGeometry x="30" y="570" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OK7BPhQxRyydMaegwAzT-26" target="OK7BPhQxRyydMaegwAzT-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="850" as="sourcePoint" />
-            <mxPoint x="150" y="800" as="targetPoint" />
+            <mxPoint x="90" y="600" as="sourcePoint" />
+            <mxPoint x="140" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-28" value="提交稿件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="700" width="120" height="80" as="geometry" />
+          <mxGeometry x="140" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-29" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OK7BPhQxRyydMaegwAzT-26" target="OK7BPhQxRyydMaegwAzT-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="990" as="sourcePoint" />
-            <mxPoint x="160" y="870" as="targetPoint" />
+            <mxPoint x="330" y="740" as="sourcePoint" />
+            <mxPoint x="150" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-30" value="查看稿件状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="800" width="120" height="80" as="geometry" />
+          <mxGeometry x="130" y="550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OK7BPhQxRyydMaegwAzT-30" target="OK7BPhQxRyydMaegwAzT-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="840" as="sourcePoint" />
-            <mxPoint x="320" y="790" as="targetPoint" />
+            <mxPoint x="250" y="590" as="sourcePoint" />
+            <mxPoint x="310" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OK7BPhQxRyydMaegwAzT-30" target="OK7BPhQxRyydMaegwAzT-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="850" as="sourcePoint" />
-            <mxPoint x="320" y="900" as="targetPoint" />
+            <mxPoint x="270" y="600" as="sourcePoint" />
+            <mxPoint x="310" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-33" value="审稿意见" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="750" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-34" value="最终决策" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="880" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-35" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OK7BPhQxRyydMaegwAzT-36" target="OK7BPhQxRyydMaegwAzT-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="920" as="sourcePoint" />
-            <mxPoint x="70" y="840" as="targetPoint" />
+            <mxPoint x="120" y="670" as="sourcePoint" />
+            <mxPoint x="60" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-36" value="修改稿件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="920" width="120" height="80" as="geometry" />
+          <mxGeometry x="140" y="670" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-37" value="作者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="830" width="30" height="60" as="geometry" />
