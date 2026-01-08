@@ -173,34 +173,28 @@
           <mxGeometry x="747" y="290" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-74" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="400" y="380" width="30" height="30" as="geometry" />
+          <mxGeometry x="145" y="380" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-75" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-74" parent="1" target="QTtAND6rSUgSDQWg1g5m-76">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="470" as="targetPoint" />
+            <mxPoint x="160" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-76" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="355" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="100" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-77" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-76" parent="1" target="QTtAND6rSUgSDQWg1g5m-78">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="570" as="targetPoint" />
+            <mxPoint x="160" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTtAND6rSUgSDQWg1g5m-78" target="QTtAND6rSUgSDQWg1g5m-85">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-78" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="355" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="100" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-79" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-78" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="560" as="targetPoint" />
+            <mxPoint x="160" y="560" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-85" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;fontColor=#000000;rounded=1;arcSize=40;" vertex="1" parent="1">
-          <mxGeometry x="375" y="590" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
