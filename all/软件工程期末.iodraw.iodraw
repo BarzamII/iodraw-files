@@ -7,10 +7,13 @@
         <mxCell id="_QjzADefCc_TMCCw9rGo-72" value="组委会" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="710" width="200" height="450" as="geometry" />
         </mxCell>
+        <mxCell id="_QjzADefCc_TMCCw9rGo-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_QjzADefCc_TMCCw9rGo-72" source="_QjzADefCc_TMCCw9rGo-79" target="_QjzADefCc_TMCCw9rGo-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-79" value="接收稿件" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
           <mxGeometry x="40" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-81" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
+        <mxCell id="_QjzADefCc_TMCCw9rGo-81" value="审查" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="_QjzADefCc_TMCCw9rGo-72">
           <mxGeometry x="60" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-82" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="_QjzADefCc_TMCCw9rGo-81" parent="_QjzADefCc_TMCCw9rGo-72">
