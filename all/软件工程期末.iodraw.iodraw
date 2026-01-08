@@ -53,10 +53,13 @@
         <mxCell id="_QjzADefCc_TMCCw9rGo-17" value="分配副主编" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="339" y="550" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="_QjzADefCc_TMCCw9rGo-17" parent="1">
+        <mxCell id="_QjzADefCc_TMCCw9rGo-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="_QjzADefCc_TMCCw9rGo-17" parent="1" target="_QjzADefCc_TMCCw9rGo-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="399" y="710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_QjzADefCc_TMCCw9rGo-19" value="分配审稿人" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="339" y="630" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
