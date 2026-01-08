@@ -98,7 +98,7 @@
             <mxPoint x="554" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-173" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="_QjzADefCc_TMCCw9rGo-171" parent="1" target="_QjzADefCc_TMCCw9rGo-155">
+        <mxCell id="_QjzADefCc_TMCCw9rGo-173" value="接受" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="_QjzADefCc_TMCCw9rGo-171" parent="1" target="_QjzADefCc_TMCCw9rGo-155">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="414" y="1100" as="targetPoint" />
             <Array as="points">
