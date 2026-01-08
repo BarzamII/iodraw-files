@@ -27,6 +27,9 @@
         <mxCell id="OK7BPhQxRyydMaegwAzT-71" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-59">
           <mxGeometry x="85" y="295" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OK7BPhQxRyydMaegwAzT-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="OK7BPhQxRyydMaegwAzT-59" source="OK7BPhQxRyydMaegwAzT-71" target="OK7BPhQxRyydMaegwAzT-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-57" value="主编" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="370" width="200" height="520" as="geometry" />
         </mxCell>
