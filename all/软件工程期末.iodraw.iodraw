@@ -64,7 +64,7 @@
         <mxCell id="_QjzADefCc_TMCCw9rGo-56" value="给出决定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="875" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_QjzADefCc_TMCCw9rGo-56">
+        <mxCell id="_QjzADefCc_TMCCw9rGo-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_QjzADefCc_TMCCw9rGo-56" target="_QjzADefCc_TMCCw9rGo-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="1060" as="sourcePoint" />
             <mxPoint x="440" y="950" as="targetPoint" />
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-59" value="初审决定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_QjzADefCc_TMCCw9rGo-60" value="终审决定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="940" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
