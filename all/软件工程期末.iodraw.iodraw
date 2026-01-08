@@ -70,7 +70,7 @@
         <mxCell id="_QjzADefCc_TMCCw9rGo-20" value="审稿人意见" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="339" y="710" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-22" value="审稿人意见" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="_QjzADefCc_TMCCw9rGo-22" value="副主编编辑建议" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="339" y="830" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
