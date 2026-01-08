@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OK7BPhQxRyydMaegwAzT-56" value="副主编" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="370" width="200" height="520" as="geometry" />
+          <mxGeometry x="110" y="370" width="200" height="790" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OK7BPhQxRyydMaegwAzT-56" source="OK7BPhQxRyydMaegwAzT-79" target="OK7BPhQxRyydMaegwAzT-80">
           <mxGeometry relative="1" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="40" y="405" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-58" value="审稿人" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="370" width="200" height="520" as="geometry" />
+          <mxGeometry x="340" y="370" width="200" height="790" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-82" value="接收稿件" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-58">
           <mxGeometry x="40" y="405" width="120" height="40" as="geometry" />
