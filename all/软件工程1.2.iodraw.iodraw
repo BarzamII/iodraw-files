@@ -40,7 +40,7 @@
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3SgvS5SkxeYjLUp2gQi0-31" value="退回" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="3SgvS5SkxeYjLUp2gQi0-1">
+        <mxCell id="3SgvS5SkxeYjLUp2gQi0-31" value="交给领事" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="3SgvS5SkxeYjLUp2gQi0-1">
           <mxGeometry x="120" y="230" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-2" value="领事" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
