@@ -109,7 +109,7 @@
             <mxPoint x="60" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OK7BPhQxRyydMaegwAzT-36" value="修改稿件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OK7BPhQxRyydMaegwAzT-36" value="给出编辑建议" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="670" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-37" value="审稿人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
