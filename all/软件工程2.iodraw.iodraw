@@ -260,7 +260,7 @@
         <mxCell id="QTtAND6rSUgSDQWg1g5m-130" value="国外快递" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1010" width="110" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-131" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-131" value="海关" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="220" y="1010" width="110" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-134" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
