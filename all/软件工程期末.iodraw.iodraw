@@ -100,7 +100,7 @@
             <mxPoint x="150" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OK7BPhQxRyydMaegwAzT-30" value="查看稿件状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OK7BPhQxRyydMaegwAzT-30" value="接收审稿人意见" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OK7BPhQxRyydMaegwAzT-30" target="OK7BPhQxRyydMaegwAzT-33">
