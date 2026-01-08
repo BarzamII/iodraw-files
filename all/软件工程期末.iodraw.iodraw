@@ -32,12 +32,12 @@
             <mxPoint x="550" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-10" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="_QjzADefCc_TMCCw9rGo-8" parent="1">
+        <mxCell id="_QjzADefCc_TMCCw9rGo-10" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="_QjzADefCc_TMCCw9rGo-8" parent="1" target="_QjzADefCc_TMCCw9rGo-17">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="400" y="560" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="399" y="575" />
-              <mxPoint x="400" y="575" />
+              <mxPoint x="399" y="580" />
+              <mxPoint x="400" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -51,11 +51,11 @@
           <mxGeometry x="535" y="610" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-17" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="430" y="570" width="120" height="40" as="geometry" />
+          <mxGeometry x="339" y="610" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="_QjzADefCc_TMCCw9rGo-17" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="670" as="targetPoint" />
+            <mxPoint x="399" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
