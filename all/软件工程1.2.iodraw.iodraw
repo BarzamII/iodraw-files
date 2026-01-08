@@ -44,7 +44,7 @@
           <mxGeometry x="120" y="230" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-36" value="通知申请人取件" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="3SgvS5SkxeYjLUp2gQi0-1">
-          <mxGeometry x="60" y="330" width="80" height="20" as="geometry" />
+          <mxGeometry x="50" y="325" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-2" value="领事" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="210" width="200" height="390" as="geometry" />
@@ -74,6 +74,9 @@
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-28" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="3SgvS5SkxeYjLUp2gQi0-3">
           <mxGeometry x="85" y="225" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3SgvS5SkxeYjLUp2gQi0-38" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="3SgvS5SkxeYjLUp2gQi0-3">
+          <mxGeometry x="85" y="325" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3SgvS5SkxeYjLUp2gQi0-7" target="3SgvS5SkxeYjLUp2gQi0-8">
           <mxGeometry relative="1" as="geometry" />
