@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-21" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="3SgvS5SkxeYjLUp2gQi0-3">
-          <mxGeometry x="85" y="230" width="30" height="30" as="geometry" />
+          <mxGeometry x="85" y="225" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-17" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#ffffc0;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#ff0000;fontColor=#000000;" vertex="1" parent="3SgvS5SkxeYjLUp2gQi0-3">
           <mxGeometry x="110" y="230" width="20" height="20" as="geometry" />
