@@ -75,16 +75,16 @@
           <mxGeometry x="120" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-94" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-57">
-          <mxGeometry x="60" y="530" width="90" height="50" as="geometry" />
+          <mxGeometry x="54.79" y="520" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-95" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="OK7BPhQxRyydMaegwAzT-94" parent="OK7BPhQxRyydMaegwAzT-57">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="150" y="680" as="targetPoint" />
+            <mxPoint x="144.79" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-96" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="OK7BPhQxRyydMaegwAzT-94" parent="OK7BPhQxRyydMaegwAzT-57">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="100" y="630" as="targetPoint" />
+            <mxPoint x="94.79" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OK7BPhQxRyydMaegwAzT-62" target="OK7BPhQxRyydMaegwAzT-64">
