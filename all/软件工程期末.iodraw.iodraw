@@ -98,8 +98,8 @@
             <mxPoint x="430" y="1180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-110" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="335" y="1068" width="50" height="30" as="geometry" />
+        <mxCell id="_QjzADefCc_TMCCw9rGo-110" value="不接受" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1068" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
