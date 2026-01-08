@@ -200,7 +200,7 @@
           <mxGeometry x="120" y="550" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-88" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="QTtAND6rSUgSDQWg1g5m-95">
-          <mxGeometry x="-0.0769" y="-20" relative="1" as="geometry">
+          <mxGeometry x="0.2308" y="10" relative="1" as="geometry">
             <mxPoint x="280" y="640" as="targetPoint" />
             <mxPoint x="200" y="570" as="sourcePoint" />
             <Array as="points">
