@@ -89,7 +89,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-62" value="接收评价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1080" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="1080" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_QjzADefCc_TMCCw9rGo-63" value="作者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="595" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_QjzADefCc_TMCCw9rGo-64" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_QjzADefCc_TMCCw9rGo-63" target="_QjzADefCc_TMCCw9rGo-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="710" as="sourcePoint" />
+            <mxPoint x="260" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_QjzADefCc_TMCCw9rGo-65" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_QjzADefCc_TMCCw9rGo-63" target="_QjzADefCc_TMCCw9rGo-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="710" as="sourcePoint" />
+            <mxPoint x="300" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_QjzADefCc_TMCCw9rGo-66" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_QjzADefCc_TMCCw9rGo-63" target="_QjzADefCc_TMCCw9rGo-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="620" as="sourcePoint" />
+            <mxPoint x="240" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_QjzADefCc_TMCCw9rGo-67" value="提交稿件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_QjzADefCc_TMCCw9rGo-68" value="进行申诉" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_QjzADefCc_TMCCw9rGo-69" value="查看评价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="575" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
