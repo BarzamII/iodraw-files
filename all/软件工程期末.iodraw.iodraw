@@ -112,7 +112,7 @@
             <mxPoint x="550" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_QjzADefCc_TMCCw9rGo-67" value="提交稿件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_QjzADefCc_TMCCw9rGo-67" value="匿名审查" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_QjzADefCc_TMCCw9rGo-68" value="进行申诉" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
