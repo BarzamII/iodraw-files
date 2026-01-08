@@ -261,13 +261,13 @@
           <mxGeometry x="140" y="1010" width="110" height="280" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-131" value="海关" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1010" width="110" height="270" as="geometry" />
+          <mxGeometry x="280" y="1010" width="110" height="280" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-134" value="消费者" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1010" width="110" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-135" value="国内快递" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1010" width="110" height="200" as="geometry" />
+          <mxGeometry x="420" y="1010" width="110" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
