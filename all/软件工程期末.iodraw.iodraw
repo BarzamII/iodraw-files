@@ -51,7 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-74" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="OK7BPhQxRyydMaegwAzT-57">
-          <mxGeometry x="140" y="290" width="90" height="30" as="geometry" />
+          <mxGeometry x="120" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OK7BPhQxRyydMaegwAzT-75" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="OK7BPhQxRyydMaegwAzT-74" parent="OK7BPhQxRyydMaegwAzT-57">
           <mxGeometry relative="1" as="geometry">
