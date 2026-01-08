@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-17" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#ffffc0;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#ff0000;fontColor=#000000;" vertex="1" parent="3SgvS5SkxeYjLUp2gQi0-1">
-          <mxGeometry x="30" y="310" width="20" height="20" as="geometry" />
+          <mxGeometry x="30" y="240" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-20" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3SgvS5SkxeYjLUp2gQi0-1">
           <mxGeometry x="30" y="158" width="40" height="30" as="geometry" />
