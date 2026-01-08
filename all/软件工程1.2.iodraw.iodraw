@@ -5,13 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-1" value="工作人员" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="220" width="200" height="200" as="geometry" />
+          <mxGeometry x="310" y="220" width="200" height="390" as="geometry" />
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-2" value="领事" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="220" width="200" height="200" as="geometry" />
+          <mxGeometry x="530" y="220" width="200" height="390" as="geometry" />
         </mxCell>
         <mxCell id="3SgvS5SkxeYjLUp2gQi0-3" value="签证申请人" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="220" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3SgvS5SkxeYjLUp2gQi0-4" value="" style="shape=xor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
