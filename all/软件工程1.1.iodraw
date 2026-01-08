@@ -88,7 +88,7 @@
             <mxPoint x="230" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8wQd58hLzIBwtI7BmJu0-48" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8wQd58hLzIBwtI7BmJu0-39">
+        <mxCell id="8wQd58hLzIBwtI7BmJu0-48" value="&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;是燃气处管理的下属单位&lt;/span&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8wQd58hLzIBwtI7BmJu0-39">
           <mxGeometry x="-0.1716" y="3" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8wQd58hLzIBwtI7BmJu0-43" value="落实到相关单位" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="410" width="120" height="80" as="geometry" />
+          <mxGeometry x="470" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8wQd58hLzIBwtI7BmJu0-44" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;转给市城建办&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="510" width="120" height="80" as="geometry" />
