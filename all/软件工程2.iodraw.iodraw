@@ -193,7 +193,7 @@
             <mxPoint x="170" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-66" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-66" value="是否合规" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="120" y="590" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QTtAND6rSUgSDQWg1g5m-67" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-66" parent="1">
@@ -206,10 +206,18 @@
             <mxPoint x="160" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QTtAND6rSUgSDQWg1g5m-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="QTtAND6rSUgSDQWg1g5m-66">
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTtAND6rSUgSDQWg1g5m-64" target="QTtAND6rSUgSDQWg1g5m-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="510" as="sourcePoint" />
             <mxPoint x="170" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-70" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QTtAND6rSUgSDQWg1g5m-71" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="QTtAND6rSUgSDQWg1g5m-70" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
